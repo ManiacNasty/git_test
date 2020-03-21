@@ -1,0 +1,1 @@
+This is ManiacNasty's first git project!
